@@ -1,0 +1,28 @@
+.page {
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar brand{
+
+    size: 100px;
+}
+
+.navbar navbar-expand-lg{
+
+    box-shadow: black ;
+}
+.mainb{
+
+    padding: auto;
+    padding-left: 30px;
+}
+
+.footer{
+
+    background: #fff;
+}
+.imgft
+{
+    padding: 100px;
+    border-image: auto;
+    
+}
